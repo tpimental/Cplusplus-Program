@@ -1,6 +1,5 @@
 # Cplusplus-Program
 
-Summarize the project and what problem it was solving.
 For this project, I created A program using c++ that first reads a list of foods. It then will create a list counting the frequency of each item. Next, will save a backup of this information to a .dat file
 The program will then display a menu to the user for item lookup and frequency selections. This program is intended to be used as a grocery store tool. For this project, I feel as though I excelled at manipulating the vectors that were created throughout
 the project. I had a few stored to be accessed through various menu options. Throughout the code however, there were certainly areas that could be approved upon. For instance, error checking is really lacking. If you were to input a character 
